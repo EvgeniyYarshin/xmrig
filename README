@@ -1,0 +1,10 @@
+Сборка: 
+cd android
+ndk-build
+
+Запуск:
+скопировать бинарник из android/libs в файловую систему android
+config.json поместить рядом с бинарником
+
+
+
